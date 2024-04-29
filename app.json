@@ -19,10 +19,12 @@
       "supportsTablet": true
     },
     "android": {
+      
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package":"com.leah.aora"
     },
     "web": {
       "favicon": "./assets/favicon.png"
